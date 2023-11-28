@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Submodules\Calculator;
+use ModuleCommon\Calculator;
 use Illuminate\Http\Request;
 
 class PracticeController extends Controller
